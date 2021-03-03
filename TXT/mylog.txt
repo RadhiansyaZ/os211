@@ -14,3 +14,5 @@ ZCZC W01 20 L05 GSGS related: Virtualbox, VMWare, Hyper-V, and Docker.
 ZCZC W01 30 L11 download Debian ISO, installing, and gusest setup
 ZCZC W01 120 L13 install package with ssh, along with ssh setup, login, and logout
 ZCZC W01 15 L14 edit the .bash_aliases with vim
+ZCZC W01 10 L15 setting up git
+ZCZC W01  1 L16 commit mylog change from debian
