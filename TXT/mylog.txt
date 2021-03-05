@@ -1,6 +1,37 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+# L00 General Log
+# L01 SCELE related
+# L02 ZOOM related
+# L03 GitHub related
+# L04 GitHub Pages: setting, etc.
+# L05 GSGS related
+# L06 Reading References/Books/Documents
+# L07 Demo related
+# L08 Trying something
+# L09 AsDos: asking, etc.
+# L10 Assignment (General)
+# L11 Assignment #1
+# L12 Assignment #2
+# L13 Assignment #3
+# L14 Assignment #4
+# L15 Assignment #5
+# L16 Assignment #6
+# L17 Assignment #7
+# L18 Assignment #8
+# L19 Assignment #9
+# L20 Assignment #10 or more.
+# L25 C-language: study, etc.
+# L23 Discord: discussion, etc.
+# L26 Movie: relax, etc.
+# L27 Pets: feeding, playing, etc
+# L24 Udacity: study, etc.
+# L21 VirtualBox: install GNU/Linux, etc.
+# L22 YouTube: study, etc.
+# L99 Other (...)
+
 ZCZC W00 10 L03 GitHub related
 ZCZC W00  5 L04 GitHub Pages: setting, theme revert, etc.
 ZCZC W00 84 L02 ZOOM related
@@ -8,11 +39,14 @@ ZCZC W00  1 L01 PopQuiz W00P00
 ZCZC W00 10 L01 PopQuiz Q03, but cancelled
 ZCZC W00 15 L01 PopQuiz Q04
 ZCZC W00  1 L01 PopQuiz Q05
-ZCZC W01 46 L05 GSGS related: bash scripting for PopQuiz
-ZCZC W01 100 L02 ZOOM related
+ZCZC W01 46 L05 GSGS related: bash scripting for PopQuiz.
+ZCZC W01 100 L02 ZOOM related.
 ZCZC W01 20 L05 GSGS related: Virtualbox, VMWare, Hyper-V, and Docker.
-ZCZC W01 30 L11 download Debian ISO, installing, and gusest setup
-ZCZC W01 120 L13 install package with ssh, along with ssh setup, login, and logout
-ZCZC W01 15 L14 edit the .bash_aliases with vim
-ZCZC W01 10 L15 setting up git
-ZCZC W01  1 L16 commit mylog change from debian
+ZCZC W01 30 L11 Assignment #1 : download Debian ISO, installing, and gusest setup.
+ZCZC W01 30 L12 Assignment #2 : GSGS bash guide.
+ZCZC W01 120 L13 Assignment #3 : install package with ssh, along with ssh setup, login, and logout.
+ZCZC W01 15 L14 Assignment #4 : edit the .bash_aliases with vim.
+ZCZC W01 10 L15 Assignment #5 : setting up git.
+ZCZC W01  1 L16 Assignment #6 : commit mylog change from debian.
+ZCZC W01 120 L17 Assignment #7 : Create top10 Linux related links.
+ZCZC W01 60 L05 GSGS related : learn how to run VirtualBox from CLI with Powershell + Windows Env Variables.
