@@ -42,11 +42,12 @@ ZCZC W00  1 L01 PopQuiz Q05
 ZCZC W01 46 L05 GSGS related: bash scripting for PopQuiz.
 ZCZC W01 100 L02 ZOOM related.
 ZCZC W01 20 L05 GSGS related: Virtualbox, VMWare, Hyper-V, and Docker.
-ZCZC W01 30 L11 Assignment #1 : download Debian ISO, installing, and gusest setup.
+ZCZC W01 30 L11 Assignment #1 : download Debian ISO, installing, and guest setup.
 ZCZC W01 30 L12 Assignment #2 : GSGS bash guide.
 ZCZC W01 120 L13 Assignment #3 : install package with ssh, along with ssh setup, login, and logout.
 ZCZC W01 15 L14 Assignment #4 : edit the .bash_aliases with vim.
 ZCZC W01 10 L15 Assignment #5 : setting up git.
 ZCZC W01  1 L16 Assignment #6 : commit mylog change from debian.
 ZCZC W01 120 L17 Assignment #7 : Create top10 Linux related links.
+ZCZC W01 40 L18 Assignment #8 : try/learn more bash,regex,grep,sed,and vim.
 ZCZC W01 60 L05 GSGS related : learn how to run VirtualBox from CLI with Powershell + Windows Env Variables.
