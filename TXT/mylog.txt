@@ -1,7 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
 # L00 General Log
 # L01 SCELE related
 # L02 ZOOM related
@@ -31,7 +30,6 @@
 # L21 VirtualBox: install GNU/Linux, etc.
 # L22 YouTube: study, etc.
 # L99 Other (...)
-
 ZCZC W00 10 L03 GitHub related
 ZCZC W00  5 L04 GitHub Pages: setting, theme revert, etc.
 ZCZC W00 84 L02 ZOOM related
@@ -60,5 +58,5 @@ ZCZC W02  5 L15 Assignment #5: Export my Public Key
 ZCZC W02 15 L16 Assignment #6: Review my neighbors and place it to myrank
 ZCZC W02 150 L17 Assignment #7: Update top 10 of Week 02
 ZCZC W02  5 L18 Assignment #8: Copy cbkadal's myscript.sh
-ZCZC W02  5 L19 Assignment #9: Update mylog.txt
+ZCZC W02  7 L19 Assignment #9: Update mylog.txt
 ZCZC W02 67 L22 Youtube: Computerphile's Cryptography Playlist
