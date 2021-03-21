@@ -20,8 +20,6 @@ REC2="radhiansya.zain@ui.ac.id"
 REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
-FILES="my*.txt my*.sh"
-SHA="SHA256SUM"
 
 [ -d $HOME/RESULT ] || mkdir -p $HOME/RESULT
 pushd $HOME/RESULT
