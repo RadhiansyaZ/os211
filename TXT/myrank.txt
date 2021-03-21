@@ -2,3 +2,6 @@
 ZCZC W01 radityarestan
 ZCZC W01 ranianhanami
 ZCZC W01 raryasdya
+ZCZC W02 radityarestan
+ZCZC W02 rajasihombing
+ZCZC W02 raryasdya

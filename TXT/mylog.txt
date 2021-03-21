@@ -60,3 +60,11 @@ ZCZC W02 150 L17 Assignment #7: Update top 10 of Week 02
 ZCZC W02  5 L18 Assignment #8: Copy cbkadal's myscript.sh
 ZCZC W02  7 L19 Assignment #9: Update mylog.txt
 ZCZC W02 67 L22 Youtube: Computerphile's Cryptography Playlist
+ZCZC W03 50 L11 Assignment #1: Brief reading Silberchatz's OSC ch13+14+15
+ZCZC W03 40 L12 Assignment #2: Try some of the Demos
+ZCZC W03 10 L13 Assignment #3: Crosschecking my ".bash_aliases"
+ZCZC W03 20 L14 Assignment #4: Pick my neighbors Top 10 and put it into myrank
+ZCZC W03 155 L15 Assignment #5: Create my TOP 10
+ZCZC W03 10 L16 Assignment #6: Update mylog.txt
+ZCZC W03 30 L17 Assignment #7: Download W03 tar and tarballed
+ZCZC W03  7 L18 Assignment #8: Update my bash script
