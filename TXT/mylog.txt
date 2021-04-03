@@ -74,3 +74,11 @@ ZCZC W04 60 L13 Assignment #3 : Review, reading the articles, and pick 3 out of 
 ZCZC W04 240 L14 Assignment #4 : Create mu TOP 10 for week 4
 ZCZC W04 30 L15 Assignment #5 : Update mylog.txt for week 4 assignments
 ZCZC W04 10 L16 Assignment #6 : download and create tarball myW04.tar.bz2.asc
+ZCZC W05 60 L11 Assignment #1 : Read Silberschatz's OSC10 chapter 10
+ZCZC W05 30 L12 Assignment #2 : Update myrank by reviewing my neighbors
+ZCZC W05 180 L13 Assignment #3 : Create my Top 10 List for Week 5
+ZCZC W05 60 L05 GSGS Top
+ZCZC W05 100 L07 Try Demos of Week 05
+ZCZC W05 50 L14 Assignment #4 : download create tarball from WEEK05.tar.bz2.asc
+ZCZC W05 15 L15 Assignment #5 : Update mylog
+ZCZC W05 10 L16 Assignment #6 : Update myscript.sh and sign
