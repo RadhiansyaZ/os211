@@ -99,3 +99,11 @@ ZCZC W07 188 L13 Assignment #3 : Create Top 10 List of Week 07
 ZCZC W07 90 L14 Assignment #4 : Create Tarball from WEEK07.tar.bz2.asc and encountered problem when filling sharedmemory
 ZCZC W07 20 L15 Assignment #5 : Update mylog
 ZCZC W07 7 L16 Assignment #6 : Sing all the TXT/i
+ZCZC W08 50 L11 Assignment #1: Read OSC Ch05
+ZCZC W08 77 L05 GSGS Cpu Scheduling
+ZCZC W08 189 L12 Assignment #2: Review and Create Top10
+ZCZC W08 100 L05 GSGS LFS
+ZCZC W08 200 L13 Trying to imitate Part 1-4 LFS
+ZCZC W08 48 L14 Assignment #4: Encounter problem with git and create tarball
+ZCZC W08 15 L15 Assignment #5: Update Log
+ZCZC W08 5 L16 Assignment #6: Create SHA256SUM and signed
